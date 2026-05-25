@@ -66,19 +66,19 @@ Project-Monitoring-Dashboard_Illustrative-Prototype/
 ## How to Run
 
 ### 1. Clone repository
-```bash
+
 git clone https://github.com/nadinetrl/Project-Monitoring-Dashboard_Illustrative-Prototype.git
 
 ### 2. Navigate into project folder
-```bash
+
 cd Project-Monitoring-Dashboard_Illustrative-Prototype
 
 ### 3. Install dependencies
-```bash
+
 python3 -m pip install -r requirements.txt
 
 ### 4. Run dashboard
-```bash
+
 python3 main.py
 
 ### 5. Open in browser
